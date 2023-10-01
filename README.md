@@ -1,4 +1,7 @@
 # Travel-X
+
+Вёрстка Swiper слайдера с параллакс эффектом.
+
 - HTML 5
 - CSS 3
 - JavaScript
